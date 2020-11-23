@@ -2,5 +2,5 @@
 a simple server with Typescript and nodejs
 
 ## run server
-npm install
-npm run dev
+-npm install
+-npm run dev
