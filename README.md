@@ -2,5 +2,9 @@
 a simple server with Typescript and nodejs
 
 ## run server
--npm install
--npm run dev
+``` bash
+npm install
+npm run dev
+```
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
